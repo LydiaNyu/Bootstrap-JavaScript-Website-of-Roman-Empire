@@ -1,5 +1,5 @@
 ## Introduction:
-This is a school project using Bootstrap(a free and open-source CSS framework directed at responsive, mobile-first front-end web development tool) to create an Introudtion website about Romain Empire.
+This is a school project using Bootstrap(a free and open-source CSS framework directed at responsive, mobile-first front-end web development tool) to create an Introduction website about Romain Empire.
 
 ## Website addresses:
 It has been already uploaded to my school website:   
